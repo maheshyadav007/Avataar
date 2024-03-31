@@ -27,6 +27,33 @@ To shift object:
 
 Note: If you want to run for all the 3 images directly we can use **task1_script.sh** and **task2_script.sh**
 
-## Observations
+# Observations
+## Masked Images 
+All these images are in output_images folder
+
+![masked_image_bagpack.png](output_images/masked_image_bagpack.png)
+![masked_image_wallhanging.png](output_images/masked_image_wallhanging.png)
+![masked_image_stool.png](output_images/masked_image_stool.png)
+
+## Shifted Images
+All these images are in sample_images folder
+
 Successful Cases
 
+![shifted_image_bagpack_success1.png](sample_images/shifted_image_bagpack_success1.png)
+![shifted_image_bagpack_success2.png](sample_images/shifted_image_bagpack_success2.png)
+![shifted_image_bagpack_success3.png](sample_images/shifted_image_bagpack_success3.png)
+![shifted_image_wallhanging_success1.png](sample_images/shifted_image_wallhanging_success1.png)
+![shifted_image_wallhanging_success2.png](sample_images/shifted_image_wallhanging_success2.png)
+
+Failed Cases 
+
+![shifted_image_bagpack_fail1.png](sample_images/shifted_image_bagpack_fail1.png)
+![shifted_image_bagpack_fail2.png](sample_images/shifted_image_bagpack_fail2.png)
+![shifted_image_bagpack_fail3.png](sample_images/shifted_image_bagpack_fail3.png)
+![shifted_image_wallhanging_fail1.png](sample_images/shifted_image_wallhanging_fail1.png)
+![shifted_image_wallhanging_fail2.png](sample_images/shifted_image_wallhanging_fail2.png)
+![shifted_image_stool_fail3.png](sample_images/shifted_image_stool_fail3.png)
+![shifted_image_stool_fail4.png](sample_images/shifted_image_stool_fail4.png)
+![shifted_image_stool_fail5.png](sample_images/shifted_image_stool_fail5.png)
+![shifted_image_stool_fail6.png](sample_images/shifted_image_stool_fail6.png)
